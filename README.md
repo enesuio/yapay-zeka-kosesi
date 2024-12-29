@@ -24,7 +24,7 @@ Eğer blog içeriğine katkıda bulunmak, öneri veya yorumda bulunmak isterseni
 
 ## İletişim
 
-Bana [email@example.com](mailto:email@example.com) adresi üzerinden ulaşabilirsiniz.
+Bana adresi üzerinden ulaşabilirsiniz.
 
 ---
 
