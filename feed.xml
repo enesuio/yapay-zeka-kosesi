@@ -4,7 +4,7 @@
   <id>https://enesuio.github.io/yapay-zeka-blog/</id>
   <title>Yapay Zeka Blogu</title>
   <subtitle>Yapay zekayi ogrenip hayatimiza katabilecegimiz bir blog</subtitle>
-  <updated>2024-12-29T19:23:39+03:00</updated>
+  <updated>2024-12-30T00:58:42+03:00</updated>
   <author>
     <name>M. Enes CAMUR</name>
     <uri>https://enesuio.github.io/yapay-zeka-blog/</uri>
@@ -17,6 +17,36 @@
   <icon>/yapay-zeka-blog/assets/img/favicons/favicon.ico</icon>
   <logo>/yapay-zeka-blog/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Yapay Zeka Görsel Üretim Modelleri Nedir?</title>
+    <link href="https://enesuio.github.io/yapay-zeka-blog/posts/yapay-zeka-nedir/" rel="alternate" type="text/html" title="Yapay Zeka Görsel Üretim Modelleri Nedir?" />
+    <published>2024-12-29T00:00:00+03:00</published>
+  
+    <updated>2024-12-29T00:00:00+03:00</updated>
+  
+    <id>https://enesuio.github.io/yapay-zeka-blog/posts/yapay-zeka-nedir/</id>
+    <content type="text/html" src="https://enesuio.github.io/yapay-zeka-blog/posts/yapay-zeka-nedir/" />
+    <author>
+      <name>M. Enes CAMUR</name>
+    </author>
+
+  
+    
+    <category term="AI" />
+    
+    <category term="Görsel Üretim" />
+    
+    <category term="Teknoloji" />
+    
+  
+
+  <summary>Yapay Zeka Görsel Üretim Modelleri Nedir?
+
+Görsel üretim modelleri, bilgisayarların özgün görseller oluşturmasını sağlayan yapay zeka algoritmalarıdır. Bu teknolojiler, son yıllarda dijital dünyanın pek çok alanında çığır açmıştır. Görsel sanatlar, eğitim materyalleri, reklamcılık, oyun tasarımı ve daha fazlasında yapay zeka modellerinin etkilerini görmek mümkün. Ancak bu modellerin çalışma pre...</summary>
+
+  </entry>
 
   
   <entry>
