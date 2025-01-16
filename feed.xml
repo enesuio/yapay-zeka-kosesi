@@ -1,33 +1,33 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://enesuio.github.io/yapay-zeka-blog/</id>
+  <id>https://enesuio.github.io/yapay-zeka-kosesi/</id>
   <title>Yapay Zeka Blogu</title>
   <subtitle>Yapay zekayi ogrenip hayatimiza katabilecegimiz bir blog</subtitle>
-  <updated>2025-01-16T03:55:15+03:00</updated>
+  <updated>2025-01-16T04:54:38+03:00</updated>
   <author>
     <name>M. Enes CAMUR</name>
-    <uri>https://enesuio.github.io/yapay-zeka-blog/</uri>
+    <uri>https://enesuio.github.io/yapay-zeka-kosesi/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://enesuio.github.io/yapay-zeka-blog/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://enesuio.github.io/yapay-zeka-kosesi/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="tr-TR"
-    href="https://enesuio.github.io/yapay-zeka-blog/"/>
+    href="https://enesuio.github.io/yapay-zeka-kosesi/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
   <rights> © 2025 M. Enes CAMUR </rights>
-  <icon>/yapay-zeka-blog/assets/img/favicons/favicon.ico</icon>
-  <logo>/yapay-zeka-blog/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/yapay-zeka-kosesi/assets/img/favicons/favicon.ico</icon>
+  <logo>/yapay-zeka-kosesi/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
     <title>Yapay Zeka Görsel Üretim Modelleri Nedir?</title>
-    <link href="https://enesuio.github.io/yapay-zeka-blog/posts/yapay-zeka-nedir/" rel="alternate" type="text/html" title="Yapay Zeka Görsel Üretim Modelleri Nedir?" />
+    <link href="https://enesuio.github.io/yapay-zeka-kosesi/posts/yapay-zeka-nedir/" rel="alternate" type="text/html" title="Yapay Zeka Görsel Üretim Modelleri Nedir?" />
     <published>2024-12-29T00:00:00+03:00</published>
   
     <updated>2024-12-29T00:00:00+03:00</updated>
   
-    <id>https://enesuio.github.io/yapay-zeka-blog/posts/yapay-zeka-nedir/</id>
-    <content type="text/html" src="https://enesuio.github.io/yapay-zeka-blog/posts/yapay-zeka-nedir/" />
+    <id>https://enesuio.github.io/yapay-zeka-kosesi/posts/yapay-zeka-nedir/</id>
+    <content type="text/html" src="https://enesuio.github.io/yapay-zeka-kosesi/posts/yapay-zeka-nedir/" />
     <author>
       <name>M. Enes CAMUR</name>
     </author>
@@ -51,13 +51,13 @@ Görsel üretim modelleri, bilgisayarların özgün görseller oluşturmasını 
   
   <entry>
     <title>Yapay Zeka Görsel Üretim Modellerinin Kullanım Alanları</title>
-    <link href="https://enesuio.github.io/yapay-zeka-blog/posts/yapay-zeka-gorsel-uretim-modellerinin-kullanim-alanlari/" rel="alternate" type="text/html" title="Yapay Zeka Görsel Üretim Modellerinin Kullanım Alanları" />
+    <link href="https://enesuio.github.io/yapay-zeka-kosesi/posts/yapay-zeka-gorsel-uretim-modellerinin-kullanim-alanlari/" rel="alternate" type="text/html" title="Yapay Zeka Görsel Üretim Modellerinin Kullanım Alanları" />
     <published>2024-03-15T00:00:00+03:00</published>
   
     <updated>2024-03-15T00:00:00+03:00</updated>
   
-    <id>https://enesuio.github.io/yapay-zeka-blog/posts/yapay-zeka-gorsel-uretim-modellerinin-kullanim-alanlari/</id>
-    <content type="text/html" src="https://enesuio.github.io/yapay-zeka-blog/posts/yapay-zeka-gorsel-uretim-modellerinin-kullanim-alanlari/" />
+    <id>https://enesuio.github.io/yapay-zeka-kosesi/posts/yapay-zeka-gorsel-uretim-modellerinin-kullanim-alanlari/</id>
+    <content type="text/html" src="https://enesuio.github.io/yapay-zeka-kosesi/posts/yapay-zeka-gorsel-uretim-modellerinin-kullanim-alanlari/" />
     <author>
       <name>M. Enes CAMUR</name>
     </author>
@@ -90,13 +90,13 @@ Yapay zeka modelleri, sanatçı ve tasarımcıların ilham kaynağı olmuştur.
   
   <entry>
     <title>Yapay Zeka Görsel Üretim Modellerinin Tarihçesi</title>
-    <link href="https://enesuio.github.io/yapay-zeka-blog/posts/yapay-zeka-tarihcesi/" rel="alternate" type="text/html" title="Yapay Zeka Görsel Üretim Modellerinin Tarihçesi" />
+    <link href="https://enesuio.github.io/yapay-zeka-kosesi/posts/yapay-zeka-tarihcesi/" rel="alternate" type="text/html" title="Yapay Zeka Görsel Üretim Modellerinin Tarihçesi" />
     <published>2024-03-08T00:00:00+03:00</published>
   
     <updated>2024-03-08T00:00:00+03:00</updated>
   
-    <id>https://enesuio.github.io/yapay-zeka-blog/posts/yapay-zeka-tarihcesi/</id>
-    <content type="text/html" src="https://enesuio.github.io/yapay-zeka-blog/posts/yapay-zeka-tarihcesi/" />
+    <id>https://enesuio.github.io/yapay-zeka-kosesi/posts/yapay-zeka-tarihcesi/</id>
+    <content type="text/html" src="https://enesuio.github.io/yapay-zeka-kosesi/posts/yapay-zeka-tarihcesi/" />
     <author>
       <name>M. Enes CAMUR</name>
     </author>
